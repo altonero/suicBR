@@ -1,2 +1,2 @@
 # suicBR
-Geospatial description of suicides in Brazil using Python (Pandas, SciPy, GeoPandas).
+Geospatial description of suicide cases in Brazil using Python (Pandas, SciPy, GeoPandas).
